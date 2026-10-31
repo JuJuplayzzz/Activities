@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.17",
+  "apiVersion": 1,
+  "author": {
+    "id": "960971439996035083",
+    "name": "JuJuplayz"
+  },
+  "service": "HollyMovieHD",
+  "description": {
+    "en": "Watch movies online for free"
+  },
+  "url": ["hollymoviehd.cc", "goodstream.cc"],
+  "regExp": "^https?://(www\\.)?hollymoviehd\\.cc/",
+  "iFrameRegExp": "^https?://(www\\.)?goodstream\\.cc/",
+  "iframe": true,
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/eNrh6LG.png",
+  "thumbnail": "https://i.imgur.com/5q0Ta7P.png",
+  "color": "#000000",
+  "category": "videos",
+  "tags": [
+    "movies",
+    "shows",
+    "series",
+    "entertainment"
+  ]
+}
